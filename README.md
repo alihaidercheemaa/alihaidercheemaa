@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi 👋, I'm [Your Name]
-### DevOps & Infrastructure Engineer
+# Hi 👋, I'm ALI HAIDER
+### DevOps Engineer
 
 [![Build Status](https://img.shields.io/badge/Infrastructure-As__Code-blueviolet?style=for-the-badge)](https://github.com)
 [![AWS](https://img.shields.io/badge/AWS-Authorized-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
