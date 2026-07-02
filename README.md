@@ -38,8 +38,8 @@
 ## 📈 Dev Metrics & Infrastructure Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=alihaidercheemaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=alihaidercheemaa&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=alihaidercheemaa&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=alihaidercheemaa&theme=tokyonight" alt="GitHub Streak" width="48% />
 </p>
 
 ---
